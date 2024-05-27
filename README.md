@@ -1,0 +1,1 @@
+# Details_extraction_GPT4o
